@@ -78,8 +78,9 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 
     + After you download all the pre-trained model and testing dataset, just run `test.py` to generate the final prediction maps.
     
-    + You can also download prediction maps from [Google Drive](https://drive.google.com/file/d/1O5gDTBasHWuwPv4hxd04Nt08y16_Y578/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1nltTLWnU3YZpCQO5LewAIw) (extraction code: fapn)).
-    
+    + You can also download prediction maps ('CHAMELEON', 'CAMO', 'COD10K') from [Google Drive](https://drive.google.com/file/d/1O5gDTBasHWuwPv4hxd04Nt08y16_Y578/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1nltTLWnU3YZpCQO5LewAIw) (extraction code: fapn)).
+
+    + You can also download prediction maps (NC4K) from [Google Drive](https://drive.google.com/file/d/139CoLtoQp_9n3T8WXc2G8xI61MJj_bpj/view?usp=share_link) or [Baidu Drive](https://pan.baidu.com/s/1iGcAAnFjbav-HLoG7Dc_FA) (extraction code: fapn)).
 
 ### 3.2 Evaluating your trained model:
 
